@@ -14,7 +14,7 @@ credits: true
 
 ## About the Collection
 
-Place-holder
+This collection comprises images and videos related to lesser-known facts about African American producers, actors, and films during the silent film era. 
 
 <!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
 {% include cb/about_the_about.md %} 
